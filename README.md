@@ -8,3 +8,6 @@ içindeki `tr` klasörünü, `/var/www/resources/lang` klasörüne kopyalayın.
 Ardından yönetici paneline giriş sağlayıp `settings` sekmesinden
 `lang` değişkenini `Türkçe` olarak ayarlayın.
 
+## Not!
+Eğer, `Türkçe` seçmenize rağmen ingilizce gözüküyorsa,
+`engchar` klasörünün içindekilerini `tr` klasöründekilerle değiştirin.
