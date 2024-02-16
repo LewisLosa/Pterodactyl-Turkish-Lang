@@ -1,5 +1,5 @@
 # Pterodactyl Paneli İçin Türkçeleştirme Projesi 💖
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/800px-Flag_of_Turkey.svg.png
+![image](https://github.com/LewisLosa/Pterodactyl-Turkish-Lang/assets/95869100/685e8010-cfdb-4294-ada0-f3a9e92bf6ad)
 
 ## Kullanım
 `tr` klasörünü, `/var/www/resources/lang` klasörüne kopyalayın
