@@ -29,7 +29,7 @@ def process_files(input_dir, output_dir):
                 with open(output_file, 'w', encoding='utf-8') as file:
                     file.write(content)
 
-input_dir = "trchar"
+input_dir = "tr"
 output_dir = "engchar"
 
 if not os.path.exists(output_dir):
