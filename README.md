@@ -1,6 +1,6 @@
 <h1 align="center">Pterodactyl Paneli İçin Türkçeleştirme Projesi 💖</h1>
 <p align="center">
-<img src="https://github.com/LewisLosa/Pterodactyl-Turkish-Lang/assets/95869100/685e8010-cfdb-4294-ada0-f3a9e92bf6ad" width="100" height="100"/>
+<img src="https://github.com/LewisLosa/Pterodactyl-Turkish-Lang/assets/95869100/685e8010-cfdb-4294-ada0-f3a9e92bf6ad" width="1280" height="768"/>
 <p align="center">Hoşgeldiniz 👋</p>
 
 ## Kullanım
