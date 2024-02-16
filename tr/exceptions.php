@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'daemon_connection_failed' => 'Daemon ile iletişim kurulmaya çalışılırken bir istisna oluştu ve HTTP/:code yanıt kodu alındı. Bu istisna kaydedildi.',
+    'daemon_connection_failed' => 'Daemon ıle iletişim kurulmaya çalışılırken bir istisna oluştu ve HTTP/:code yanıt kodu alındı. Bu istisna kaydedildi.',
     'node' => [
         'servers_attached' => 'Bir makinenin silinebilmesi için bağlı hiçbir sunucunun olmaması gerekir.',
         'daemon_off_config_updated' => 'Daemon yapılandırması <strong>güncellendi</strong>, ancak yapılandırma dosyasını (config.yml) otomatik olarak güncelleme girişiminde bir hata oluştu. Bu değişiklikleri uygulamak için daemon için yapılandırma dosyasını manuel olarak güncellemeniz gerekecektir.',
