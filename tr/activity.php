@@ -2,7 +2,7 @@
 
 return [
     'auth' => [
-        'fail' => 'Giriş başarısız',
+        'fail' => 'Giris başarısız',
         'success' => 'Giriş yapıldı',
         'password-reset' => 'Şifre sıfırlandı',
         'reset-password' => 'Şifre sıfırlama isteği gönderildi',
